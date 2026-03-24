@@ -10,19 +10,21 @@
   <a href="https://github.com/ahaydeid">GitHub</a>
 </p>
 
+<p align="center">
+  Tangerang, Indonesia
+</p>
+
 ---
 
 ## About
 
 Saya membangun aplikasi web untuk kebutuhan yang konkret: dashboard admin, sistem informasi, tools operasional, dan platform edukasi.
 
-Pengalaman saya berfokus pada pengerjaan frontend dan backend untuk produk yang benar-benar dipakai, dengan perhatian pada alur fitur, kebutuhan pengguna, dan implementasi yang rapi. Saya paling nyaman mengerjakan web app yang menghubungkan antarmuka, logika bisnis, dan pengelolaan data dalam satu alur kerja yang jelas.
-
-Saat ini, saya banyak bekerja di area aplikasi bisnis, sistem sekolah, dan produk internal yang membantu proses operasional berjalan lebih tertata.
+Fokus saya ada pada pengerjaan frontend dan backend untuk produk yang benar-benar dipakai, dengan perhatian pada alur fitur, kebutuhan pengguna, dan implementasi yang rapi. Saya paling nyaman mengerjakan web app yang menghubungkan antarmuka, logika bisnis, dan pengelolaan data dalam alur kerja yang jelas.
 
 ---
 
-## What I work on
+## What I Work On
 
 - Admin dashboard dan sistem informasi
 - Aplikasi bisnis dan tools operasional
@@ -33,22 +35,35 @@ Saat ini, saya banyak bekerja di area aplikasi bisnis, sistem sekolah, dan produ
 
 ## Tech Stack
 
-**Primary**
-- JavaScript / TypeScript
-- PHP / Laravel
-- Go / Gin
-- React / Next.js
-- Node.js / Express
-- PostgreSQL / MySQL
-- Tailwind CSS
+### Primary
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript" />
+  <img src="https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript" />
+  <img src="https://img.shields.io/badge/PHP-111111?style=flat-square&logo=php" />
+  <img src="https://img.shields.io/badge/Laravel-111111?style=flat-square&logo=laravel" />
+  <img src="https://img.shields.io/badge/React-111111?style=flat-square&logo=react" />
+  <img src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=next.js" />
+  <img src="https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=node.js" />
+  <img src="https://img.shields.io/badge/Express-111111?style=flat-square&logo=express" />
+  <img src="https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql" />
+  <img src="https://img.shields.io/badge/MySQL-111111?style=flat-square&logo=mysql" />
+  <img src="https://img.shields.io/badge/Tailwind-111111?style=flat-square&logo=tailwindcss" />
+</p>
 
-**Working Experience**
-- Docker
-- Git&GitHub
+### Working Experience
+<p>
+  <img src="https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker" />
+  <img src="https://img.shields.io/badge/Git-111111?style=flat-square&logo=git" />
+  <img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Vercel-111111?style=flat-square&logo=vercel" />
+</p>
 
-**Familiar With**
-- PHP
-- Javascript
+### Familiar With
+<p>
+  <img src="https://img.shields.io/badge/Go-111111?style=flat-square&logo=go" />
+  <img src="https://img.shields.io/badge/Gin-111111?style=flat-square&logo=go" />
+  <img src="https://img.shields.io/badge/Java-111111?style=flat-square&logo=openjdk" />
+</p>
 
 ---
 
@@ -56,70 +71,46 @@ Saat ini, saya banyak bekerja di area aplikasi bisnis, sistem sekolah, dan produ
 
 ### Edula
 Platform edukasi dan sistem informasi sekolah untuk membantu kebutuhan operasional harian, pengelolaan data, dan alur kerja pengguna di lingkungan sekolah.  
-Project ini relevan untuk menunjukkan pengalaman saya di area product workflow, admin system, dan kebutuhan user yang cukup jelas dalam domain pendidikan.
-
 **Repo:** https://github.com/ahaydeid/edula  
 **Website:** https://edula.id
 
----
-
 ### Edula SIMS
 Sistem informasi sekolah berbasis web dengan fokus pada pengelolaan data dan proses administratif.  
-Project ini menunjukkan pengalaman saya dalam membangun aplikasi yang lebih dekat ke kebutuhan internal pengguna, bukan sekadar landing page atau UI statis.
-
 **Repo:** https://github.com/ahaydeid/edula-sims
-
----
 
 ### Mobile Edula
 Aplikasi pendukung ekosistem Edula untuk memperluas akses pengguna di luar versi web utama.  
-Menunjukkan keterlibatan saya dalam pengembangan produk yang tidak hanya berhenti di satu surface, tetapi ikut mempertimbangkan kebutuhan penggunaan yang lebih fleksibel.
-
 **Repo:** https://github.com/ahaydeid/mobile-edula
 
----
-
 ### DIT Official Web
-Website resmi untuk kebutuhan company profile / institusi dengan pendekatan modern dan struktur yang lebih rapi.  
-Project ini memperlihatkan kemampuan saya mengerjakan user-facing website yang tetap perlu jelas dari sisi struktur, konten, dan presentasi produk atau institusi.
-
+Website resmi untuk kebutuhan company profile atau institusi dengan struktur yang rapi dan pendekatan modern.  
 **Repo:** https://github.com/ahaydeid/dit_officialweb
 
----
-
 ### Atur Pabrik
-Aplikasi operasional berbasis web untuk membantu pengelolaan proses yang berkaitan dengan aktivitas manufaktur, material, dan kebutuhan administrasi internal.  
-Project ini penting karena menunjukkan eksposur saya pada use case bisnis yang lebih operasional dan membutuhkan alur data yang lebih terstruktur.
-
+Aplikasi operasional berbasis web untuk membantu pengelolaan proses, material, dan kebutuhan administrasi internal.  
 **Repo:** https://github.com/ahaydeid/atur-pabrik
-
----
 
 ### Tiket App
 Aplikasi reporting tiket online untuk membantu pencatatan dan pengelolaan laporan secara lebih terpusat.  
-Project ini merepresentasikan pengalaman saya membangun aplikasi dengan use case yang jelas, yaitu membantu proses pencatatan, monitoring, atau tindak lanjut berbasis web.
-
 **Repo:** https://github.com/ahaydeid/tiketapp
 
 ---
 
-## What I can contribute
+## What I Can Contribute
 
 - Mengerjakan web app dari frontend sampai backend
-- Membantu mengubah kebutuhan produk menjadi fitur yang bisa dipakai
+- Menerjemahkan kebutuhan produk menjadi fitur yang bisa dipakai
 - Nyaman mengerjakan dashboard admin, sistem internal, dan aplikasi bisnis
-- Terbiasa bekerja pada produk yang menuntut alur data dan alur pengguna yang jelas
-- Fokus pada solusi yang relevan untuk kebutuhan nyata, bukan sekadar tampilan
+- Terbiasa bekerja pada produk dengan alur data dan alur pengguna yang jelas
 
 ---
 
-## Currently focused on
+## Currently Focused On
 
 - Memperkuat kualitas implementasi di React / Next.js dan Laravel
-- Meningkatkan struktur backend dan integrasi API yang lebih rapi
-- Membangun web app yang lebih jelas dari sisi product flow dan maintainability
+- Meningkatkan struktur backend dan integrasi API
+- Membangun web app yang lebih rapi dari sisi product flow dan maintainability
 - Pendalaman pada aplikasi operasional, dashboard, dan platform edukasi
-- Praktik deployment dan workflow pengembangan yang lebih konsisten
 
 ---
 
@@ -138,9 +129,6 @@ Project ini merepresentasikan pengalaman saya membangun aplikasi dengan use case
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahaydeid&show_icons=true&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahaydeid&layout=compact&theme=default" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ahaydeid&show_icons=true&theme=default" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahaydeid&layout=compact&theme=default" />
 </p>

@@ -13,7 +13,7 @@
 ## About Me
 
 Saya seorang developer yang selalu tertarik mempelajari hal baru dan mampu menyesuaikan diri dengan kebutuhan project yang terus berkembang.  
-Fokus saya ada pada pengembangan aplikasi web, dashboard admin, sistem informasi, dan aplikasi layanan publik.
+Fokus saya ada pada pengembangan aplikasi web & mobile, dashboard admin, sistem informasi, dan aplikasi layanan publik.
 
 - 🌱 Terus belajar dan mengembangkan skill baru
 - 💻 Fokus pada web development dan sistem informasi

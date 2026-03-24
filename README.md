@@ -55,7 +55,6 @@ Fokus saya ada pada pengerjaan frontend dan backend untuk produk yang benar-bena
   <img src="https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker" />
   <img src="https://img.shields.io/badge/Git-111111?style=flat-square&logo=git" />
   <img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/badge/Vercel-111111?style=flat-square&logo=vercel" />
 </p>
 
 ### Familiar With

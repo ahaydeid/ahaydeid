@@ -6,8 +6,7 @@
 <p align="center">
   <a href="https://ahadi.my.id">Website</a> •
   <a href="https://edula.id">Edula</a> •
-  <a href="https://www.linkedin.com/in/ahadi-hadi-7900ba220/">LinkedIn</a> •
-  <a href="https://github.com/ahaydeid">GitHub</a>
+  <a href="https://www.linkedin.com/in/ahadi-hadi-7900ba220/">LinkedIn</a>
 </p>
 
 <p align="center">

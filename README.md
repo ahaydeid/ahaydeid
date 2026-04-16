@@ -19,7 +19,7 @@
 
 Saya membangun aplikasi web untuk kebutuhan yang konkret: dashboard admin, sistem informasi, tools operasional, dan platform edukasi.
 
-Fokus saya ada pada pengerjaan frontend dan backend untuk produk yang benar-benar dipakai, dengan perhatian pada alur fitur, kebutuhan pengguna, dan implementasi yang rapi. Saya paling nyaman mengerjakan web app yang menghubungkan antarmuka, logika bisnis, dan pengelolaan data dalam alur kerja yang jelas.
+Saya fokus pada pengerjaan frontend dan backend untuk produk yang benar-benar dipakai, dengan perhatian pada alur fitur, kebutuhan pengguna, dan implementasi yang rapi. Saya paling nyaman mengerjakan web app yang menghubungkan UI, logika bisnis, dan pengelolaan data dalam alur kerja yang jelas.
 
 ---
 

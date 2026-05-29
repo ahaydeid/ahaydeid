@@ -25,7 +25,7 @@ Saya fokus pada pengerjaan frontend dan backend untuk produk yang benar-benar di
 
 ## What I Work On
 
-- Admin dashboard dan sistem informasi
+- Dshboard admin dan sistem informasi
 - Aplikasi bisnis dan tools operasional
 - Platform edukasi berbasis web
 - Frontend dan backend untuk product workflow yang saling terhubung

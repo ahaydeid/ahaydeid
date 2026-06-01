@@ -17,7 +17,7 @@
 
 ## About
 
-Saya membangun aplikasi web dan mobile untuk kebutuhan yang konkret dan pragmatis: dashboard admin, sistem informasi, tools operasional, platform edukasi, IoT integrations.
+Saya membangun aplikasi web dan mobile untuk kebutuhan yang konkret serta pragmatis: dashboard admin, sistem informasi, tools operasional, platform edukasi, IoT integrations.
 
 Saya fokus pada pengerjaan frontend dan backend untuk produk yang benar-benar dipakai, dengan perhatian pada alur fitur, kebutuhan pengguna, dan implementasi yang rapi. Saya paling nyaman mengerjakan web app yang menghubungkan UI, logika bisnis, dan pengelolaan data dalam alur kerja yang jelas dan terstruktur.
 
